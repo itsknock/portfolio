@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ImportLog">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 474594918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conf. Importación Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 1622979514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Line Account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cuenta contable por defecto para líneas de factura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 2074820174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compensation Account No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. cuenta contable compensación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field Compensation Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 1153367456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Template</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Plantilla Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field Customer Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 4274826855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "No. Cuenta Contable"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field G/L Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 3196008554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Serial No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Factura de venta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field Invoice Serial No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Clave primaria"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 4149465994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration Serial No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Serie Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field Registration Serial No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 3913181742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT 10%</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field VAT10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 515647332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT 21%</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field VAT21 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 1568987353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT 4%</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field VAT4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 2850659894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Compensation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field VATComp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 474594918 - Field 2387006677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Conf. Importacion Excel - Field VATType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Importación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "Direccion</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 244521158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CIF/NIF</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "CIF/NIF"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field CIF/NIF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Municipio</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3322432386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado del procesado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Client process Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3004934655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Reason</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "Razon cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Client Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 597862285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Reason</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Razon Empresa"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Company Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Customer No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "No. Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 1153367456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Template</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Plantilla Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Customer Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="C.P."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 1237689382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Province</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Provincia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Province - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 674286786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Registered sales invoice No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "No. Factura de venta registrada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Registered sales invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3040401650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales invoice No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "No. Factura de venta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Sales invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 2346995269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Series</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Serie"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3493498781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T.10% Base</source>
+          <note from="Developer" annotates="general" priority="2">ESP="T.10%"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field T.10% Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 4013529055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T.10% VAT</source>
+          <note from="Developer" annotates="general" priority="2">ESP="T.10%"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field T.10% VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3080341571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T.21% Base</source>
+          <note from="Developer" annotates="general" priority="2">ESP="T.21%"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field T.21% Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 2191499161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T.21% VAT</source>
+          <note from="Developer" annotates="general" priority="2">ESP="T.21%"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field T.21% VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 3097556370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T.4% Base</source>
+          <note from="Developer" annotates="general" priority="2">ESP="T.4%"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field T.4% Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 2094544100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T.4% VAT</source>
+          <note from="Developer" annotates="general" priority="2">ESP="T.4%"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field T.4% VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 245426702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Total"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1705842737 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportLogTable - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1558925425 - Method 2461338730 - NamedType 3097772445" size-unit="char" translate="yes" xml:space="preserve">
+          <source> No Pending lines to process.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No hay líneas pendientes para procesar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Import Log Mgt - Method ProcessLines - NamedType NoPendingLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4066523093 - Method 120556434 - NamedType 2056082765" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer %1 template not found</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Plantilla del cliente %1 no encontrada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Process import lines - Method CreateCustomerFromTemplate - NamedType TemplateNotFound</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4066523093 - Method 586468893 - NamedType 2823024120" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CIF/NIF is empty in line %1</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El CIF/NIF está vacío en la línea %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Process import lines - Method ProcessImportLines - NamedType CIFEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Page 474594918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conf. Importación Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Conf. Importacion Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 474594918 - Control 401034357 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select customer template for new customers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Elige una plantilla para clientes nuevos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Conf. Importacion Excel - Control Plantilla Cliente - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642613686 - Action 1147532894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Log Page - Action ImportExcel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642613686 - Action 2461338730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Log Page - Action ProcessLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642613686 - Action 1786295719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Error</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ver Error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Log Page - Action ViewError - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642613686 - Action 1786295719 - Method 1377591017 - NamedType 3501258000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select exactly (1) line to view its error.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Selecciona (1) línea para ver el Error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Log Page - Action ViewError - Method OnAction - NamedType MultipleLinesSelected</note>
+        </trans-unit>
+        <trans-unit id="Page 3642613686 - Action 1786295719 - Method 1377591017 - NamedType 2488702383" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected line has NO Error status.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="La línea seleccionada NO tiene estado de Error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Log Page - Action ViewError - Method OnAction - NamedType NoErrorStatus</note>
+        </trans-unit>
+        <trans-unit id="Page 3642613686 - Action 1786295719 - Method 1377591017 - NamedType 3255779974" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No error message available.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No hay mensaje de error disponible"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Log Page - Action ViewError - Method OnAction - NamedType NoErrorMessage</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049398358 - Control 2680581377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 561208485">
+          <source>Importe total des del fitxer Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Invoice List Ext - Control Importe Excel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3068609112 - Field 2680581377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Importe Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Header Ext Import Excel - Field Importe Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1846452001 - Field 633887033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>VAT Product Posting Group</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo de registro IVA producto para la línea de factura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Line Ext - Field VAT Product Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 176034978 - EnumValue 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created new client</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nuevo cliente creado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client process status - EnumValue Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 176034978 - EnumValue 3481143665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending processing</source>
+          <note from="Developer" annotates="general" priority="2">ESP=" Pendiente de processar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client process status - EnumValue Pending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 176034978 - EnumValue 2339977023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updated existing client</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cliente existente actualizado "</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client process status - EnumValue Updated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 513339096 - EnumValue 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2">ESP= "ERROR"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status - EnumValue Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 513339096 - EnumValue 3481143665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Pendiente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status - EnumValue Pending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 513339096 - EnumValue 3208180638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processed</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Procesado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status - EnumValue Processed - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
