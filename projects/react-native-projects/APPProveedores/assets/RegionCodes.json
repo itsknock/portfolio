@@ -1,0 +1,1204 @@
+[
+ {
+  "Código": "AD",
+  "Nombre": "Andorra",
+  "Código ISO": "AD",
+  "Código numérico ISO": "020",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "AE",
+  "Nombre": "Emiratos Árabes Unidos",
+  "Código ISO": "AE",
+  "Código numérico ISO": "784",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "AL",
+  "Nombre": "Albania",
+  "Código ISO": "AL",
+  "Código numérico ISO": "008",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "AM",
+  "Nombre": "Armenia",
+  "Código ISO": "AM",
+  "Código numérico ISO": "051",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "AO",
+  "Nombre": "Angola",
+  "Código ISO": "AO",
+  "Código numérico ISO": "024",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "AR",
+  "Nombre": "Argentina",
+  "Código ISO": "AR",
+  "Código numérico ISO": "032",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "AT",
+  "Nombre": "Austria",
+  "Código ISO": "AT",
+  "Código numérico ISO": "040",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "AT",
+  "Cód. Intrastat": "AT",
+  "Esquema de IVA": "0007"
+ },
+ {
+  "Código": "AU",
+  "Nombre": "Australia",
+  "Código ISO": "AU",
+  "Código numérico ISO": "036",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "AZ",
+  "Nombre": "Azerbaiyán",
+  "Código ISO": "AZ",
+  "Código numérico ISO": "031",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BA",
+  "Nombre": "Bosnia y Herzegovina",
+  "Código ISO": "BA",
+  "Código numérico ISO": "070",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BD",
+  "Nombre": "Bangladés",
+  "Código ISO": "BD",
+  "Código numérico ISO": "050",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BE",
+  "Nombre": "Bélgica",
+  "Código ISO": "BE",
+  "Código numérico ISO": "056",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "BE",
+  "Cód. Intrastat": "BE",
+  "Esquema de IVA": "9925"
+ },
+ {
+  "Código": "BG",
+  "Nombre": "Bulgaria",
+  "Código ISO": "BG",
+  "Código numérico ISO": "100",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "BG",
+  "Cód. Intrastat": "BG",
+  "Esquema de IVA": "9926"
+ },
+ {
+  "Código": "BH",
+  "Nombre": "Baréin",
+  "Código ISO": "BH",
+  "Código numérico ISO": "048",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BM",
+  "Nombre": "Bermudas",
+  "Código ISO": "BM",
+  "Código numérico ISO": "060",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BN",
+  "Nombre": "Brunéi Darussalam",
+  "Código ISO": "BN",
+  "Código numérico ISO": "096",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BO",
+  "Nombre": "Bolivia",
+  "Código ISO": "BO",
+  "Código numérico ISO": "068",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BR",
+  "Nombre": "Brasil",
+  "Código ISO": "BR",
+  "Código numérico ISO": "076",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BS",
+  "Nombre": "Bahamas",
+  "Código ISO": "BS",
+  "Código numérico ISO": "044",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "BW",
+  "Nombre": "Botsuana",
+  "Código ISO": "BW",
+  "Código numérico ISO": "072",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "CA",
+  "Nombre": "Canadá",
+  "Código ISO": "CA",
+  "Código numérico ISO": "124",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa",
+  "Nombre de la provincia": "Province"
+ },
+ {
+  "Código": "CH",
+  "Nombre": "Suiza",
+  "Código ISO": "CH",
+  "Código numérico ISO": "756",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "CL",
+  "Nombre": "Chile",
+  "Código ISO": "CL",
+  "Código numérico ISO": "152",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "CM",
+  "Nombre": "Camerún",
+  "Código ISO": "CM",
+  "Código numérico ISO": "120",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "CN",
+  "Nombre": "China",
+  "Código ISO": "CN",
+  "Código numérico ISO": "156",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "CO",
+  "Nombre": "Colombia",
+  "Código ISO": "CO",
+  "Código numérico ISO": "170",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "CR",
+  "Nombre": "Costa Rica",
+  "Código ISO": "CR",
+  "Código numérico ISO": "188",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "CY",
+  "Nombre": "Chipre",
+  "Código ISO": "CY",
+  "Código numérico ISO": "196",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "CY",
+  "Cód. Intrastat": "CY",
+  "Esquema de IVA": "9928"
+ },
+ {
+  "Código": "CZ",
+  "Nombre": "Chequia",
+  "Código ISO": "CZ",
+  "Código numérico ISO": "203",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "CZ",
+  "Cód. Intrastat": "CZ",
+  "Esquema de IVA": "9929"
+ },
+ {
+  "Código": "DE",
+  "Nombre": "Alemania",
+  "Código ISO": "DE",
+  "Código numérico ISO": "276",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "DE",
+  "Cód. Intrastat": "DE",
+  "Esquema de IVA": "9930"
+ },
+ {
+  "Código": "DK",
+  "Nombre": "Dinamarca",
+  "Código ISO": "DK",
+  "Código numérico ISO": "208",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "DK",
+  "Cód. Intrastat": "DK",
+  "Esquema de IVA": "0184"
+ },
+ {
+  "Código": "DO",
+  "Nombre": "República Dominicana",
+  "Código ISO": "DO",
+  "Código numérico ISO": "214",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "DZ",
+  "Nombre": "Argelia",
+  "Código ISO": "DZ",
+  "Código numérico ISO": "012",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "EC",
+  "Nombre": "Ecuador",
+  "Código ISO": "EC",
+  "Código numérico ISO": "218",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "EE",
+  "Nombre": "Estonia",
+  "Código ISO": "EE",
+  "Código numérico ISO": "233",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "EE",
+  "Cód. Intrastat": "EE",
+  "Esquema de IVA": "9931"
+ },
+ {
+  "Código": "EG",
+  "Nombre": "Egipto",
+  "Código ISO": "EG",
+  "Código numérico ISO": "818",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "EL",
+  "Nombre": "Grecia",
+  "Código ISO": "EL",
+  "Código numérico ISO": "300",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "EL",
+  "Cód. Intrastat": "EL"
+ },
+ {
+  "Código": "ES",
+  "Nombre": "España",
+  "Código ISO": "ES",
+  "Código numérico ISO": "724",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "ES",
+  "Cód. Intrastat": "ES",
+  "Esquema de IVA": "9920"
+ },
+ {
+  "Código": "ET",
+  "Nombre": "Etiopía",
+  "Código ISO": "ET",
+  "Código numérico ISO": "231",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "FI",
+  "Nombre": "Finlandia",
+  "Código ISO": "FI",
+  "Código numérico ISO": "246",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "FI",
+  "Cód. Intrastat": "FI"
+ },
+ {
+  "Código": "FJ",
+  "Nombre": "Islas Fiji",
+  "Código ISO": "FJ",
+  "Código numérico ISO": "242",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "FO",
+  "Nombre": "Islas Feroe",
+  "Código ISO": "FO",
+  "Código numérico ISO": "234",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "FR",
+  "Nombre": "Francia",
+  "Código ISO": "FR",
+  "Código numérico ISO": "250",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "FR",
+  "Cód. Intrastat": "FR",
+  "Esquema de IVA": "0009"
+ },
+ {
+  "Código": "GB",
+  "Nombre": "Gran Bretaña",
+  "Código ISO": "GB",
+  "Código numérico ISO": "826",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. Intrastat": "GB",
+  "Esquema de IVA": "9932"
+ },
+ {
+  "Código": "GE",
+  "Nombre": "Georgia",
+  "Código ISO": "GE",
+  "Código numérico ISO": "268",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "GG",
+  "Nombre": "Guernsey",
+  "Código ISO": "GG",
+  "Código numérico ISO": "831",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "GH",
+  "Nombre": "Ghana",
+  "Código ISO": "GH",
+  "Código numérico ISO": "288",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "GL",
+  "Nombre": "Groenlandia",
+  "Código ISO": "GL",
+  "Código numérico ISO": "304",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "GT",
+  "Nombre": "Guatemala",
+  "Código ISO": "GT",
+  "Código numérico ISO": "320",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "HK",
+  "Nombre": "Hong Kong",
+  "Código ISO": "HK",
+  "Código numérico ISO": "344",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "HN",
+  "Nombre": "Honduras",
+  "Código ISO": "HN",
+  "Código numérico ISO": "340",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "HR",
+  "Nombre": "Croacia",
+  "Código ISO": "HR",
+  "Código numérico ISO": "191",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "HR",
+  "Cód. Intrastat": "HR",
+  "Esquema de IVA": "9934"
+ },
+ {
+  "Código": "HU",
+  "Nombre": "Hungría",
+  "Código ISO": "HU",
+  "Código numérico ISO": "348",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "HU",
+  "Cód. Intrastat": "HU",
+  "Esquema de IVA": "9910"
+ },
+ {
+  "Código": "ID",
+  "Nombre": "Indonesia",
+  "Código ISO": "ID",
+  "Código numérico ISO": "360",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "IE",
+  "Nombre": "Irlanda",
+  "Código ISO": "IE",
+  "Código numérico ISO": "372",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "IE",
+  "Cód. Intrastat": "IE",
+  "Esquema de IVA": "9935"
+ },
+ {
+  "Código": "IL",
+  "Nombre": "Israel",
+  "Código ISO": "IL",
+  "Código numérico ISO": "376",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "IM",
+  "Nombre": "Isla de Man",
+  "Código ISO": "IM",
+  "Código numérico ISO": "833",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "IN",
+  "Nombre": "India",
+  "Código ISO": "IN",
+  "Código numérico ISO": "356",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "IS",
+  "Nombre": "Islandia",
+  "Código ISO": "IS",
+  "Código numérico ISO": "352",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "IT",
+  "Nombre": "Italia",
+  "Código ISO": "IT",
+  "Código numérico ISO": "380",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "IT",
+  "Cód. Intrastat": "IT",
+  "Esquema de IVA": "0097"
+ },
+ {
+  "Código": "JE",
+  "Nombre": "Jersey",
+  "Código ISO": "JE",
+  "Código numérico ISO": "832",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "JM",
+  "Nombre": "Jamaica",
+  "Código ISO": "JM",
+  "Código numérico ISO": "388",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "JO",
+  "Nombre": "Jordania",
+  "Código ISO": "JO",
+  "Código numérico ISO": "400",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "JP",
+  "Nombre": "Japón",
+  "Código ISO": "JP",
+  "Código numérico ISO": "392",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "KE",
+  "Nombre": "Kenia",
+  "Código ISO": "KE",
+  "Código numérico ISO": "404",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "KH",
+  "Nombre": "Camboya",
+  "Código ISO": "KH",
+  "Código numérico ISO": "116",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "KR",
+  "Nombre": "Corea del Sur",
+  "Código ISO": "KR",
+  "Código numérico ISO": "410",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "KW",
+  "Nombre": "Kuwait",
+  "Código ISO": "KW",
+  "Código numérico ISO": "414",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "KY",
+  "Nombre": "Islas Caimán",
+  "Código ISO": "KY",
+  "Código numérico ISO": "136",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "KZ",
+  "Nombre": "Kazajistán",
+  "Código ISO": "KZ",
+  "Código numérico ISO": "398",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "LB",
+  "Nombre": "Líbano",
+  "Código ISO": "LB",
+  "Código numérico ISO": "422",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "LI",
+  "Nombre": "Liechtenstein",
+  "Código ISO": "LI",
+  "Código numérico ISO": "438",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "LK",
+  "Nombre": "Sri Lanka",
+  "Código ISO": "LK",
+  "Código numérico ISO": "144",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "LT",
+  "Nombre": "Lituania",
+  "Código ISO": "LT",
+  "Código numérico ISO": "440",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "LT",
+  "Cód. Intrastat": "LT",
+  "Esquema de IVA": "0200"
+ },
+ {
+  "Código": "LU",
+  "Nombre": "Luxemburgo",
+  "Código ISO": "LU",
+  "Código numérico ISO": "442",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "LU",
+  "Cód. Intrastat": "LU",
+  "Esquema de IVA": "9938"
+ },
+ {
+  "Código": "LV",
+  "Nombre": "Letonia",
+  "Código ISO": "LV",
+  "Código numérico ISO": "428",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "LV",
+  "Cód. Intrastat": "LV",
+  "Esquema de IVA": "9939"
+ },
+ {
+  "Código": "MA",
+  "Nombre": "Marruecos",
+  "Código ISO": "MA",
+  "Código numérico ISO": "504",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "MC",
+  "Nombre": "Mónaco",
+  "Código ISO": "MC",
+  "Código numérico ISO": "492",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "ME",
+  "Nombre": "Montenegro",
+  "Código ISO": "ME",
+  "Código numérico ISO": "499",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Esquema de IVA": "9941"
+ },
+ {
+  "Código": "MG",
+  "Nombre": "Madagascar",
+  "Código ISO": "MG",
+  "Código numérico ISO": "450",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "MK",
+  "Nombre": "Macedonia del Norte",
+  "Código ISO": "MK",
+  "Código numérico ISO": "807",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "MN",
+  "Nombre": "Mongolia",
+  "Código ISO": "MN",
+  "Código numérico ISO": "496",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "MO",
+  "Nombre": "Macao",
+  "Código ISO": "MO",
+  "Código numérico ISO": "446",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "MT",
+  "Nombre": "Malta",
+  "Código ISO": "MT",
+  "Código numérico ISO": "470",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "MT",
+  "Cód. Intrastat": "MT",
+  "Esquema de IVA": "9943"
+ },
+ {
+  "Código": "MU",
+  "Nombre": "Mauricio",
+  "Código ISO": "MU",
+  "Código numérico ISO": "480",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "MV",
+  "Nombre": "Maldivas",
+  "Código ISO": "MV",
+  "Código numérico ISO": "462",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "MW",
+  "Nombre": "Malaui",
+  "Código ISO": "MW",
+  "Código numérico ISO": "454",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "MX",
+  "Nombre": "México",
+  "Código ISO": "MX",
+  "Código numérico ISO": "484",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "MY",
+  "Nombre": "Malasia",
+  "Código ISO": "MY",
+  "Código numérico ISO": "458",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "MZ",
+  "Nombre": "Mozambique",
+  "Código ISO": "MZ",
+  "Código numérico ISO": "508",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "NA",
+  "Nombre": "Namibia",
+  "Código ISO": "NA",
+  "Código numérico ISO": "516",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "NG",
+  "Nombre": "Nigeria",
+  "Código ISO": "NG",
+  "Código numérico ISO": "566",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "NI",
+  "Nombre": "Irlanda del Norte",
+  "Código ISO": "GB",
+  "Código numérico ISO": "826",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "GBN",
+  "Cód. Intrastat": "GBN",
+  "Esquema de IVA": "9932"
+ },
+ {
+  "Código": "NL",
+  "Nombre": "Países Bajos",
+  "Código ISO": "NL",
+  "Código numérico ISO": "528",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "NL",
+  "Cód. Intrastat": "NL",
+  "Esquema de IVA": "9944"
+ },
+ {
+  "Código": "NO",
+  "Nombre": "Noruega",
+  "Código ISO": "NO",
+  "Código numérico ISO": "578",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Esquema de IVA": "0192"
+ },
+ {
+  "Código": "NP",
+  "Nombre": "Nepal",
+  "Código ISO": "NP",
+  "Código numérico ISO": "524",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "NZ",
+  "Nombre": "Nueva Zelanda",
+  "Código ISO": "NZ",
+  "Código numérico ISO": "554",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "OM",
+  "Nombre": "Omán",
+  "Código ISO": "OM",
+  "Código numérico ISO": "512",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "PA",
+  "Nombre": "Panamá",
+  "Código ISO": "PA",
+  "Código numérico ISO": "591",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "PE",
+  "Nombre": "Perú",
+  "Código ISO": "PE",
+  "Código numérico ISO": "604",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "PH",
+  "Nombre": "Filipinas",
+  "Código ISO": "PH",
+  "Código numérico ISO": "608",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "PK",
+  "Nombre": "Paquistán",
+  "Código ISO": "PK",
+  "Código numérico ISO": "586",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "PL",
+  "Nombre": "Polonia",
+  "Código ISO": "PL",
+  "Código numérico ISO": "616",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "PL",
+  "Cód. Intrastat": "PL",
+  "Esquema de IVA": "9945"
+ },
+ {
+  "Código": "PR",
+  "Nombre": "Puerto Rico",
+  "Código ISO": "PR",
+  "Código numérico ISO": "630",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "PT",
+  "Nombre": "Portugal",
+  "Código ISO": "PT",
+  "Código numérico ISO": "620",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "PT",
+  "Cód. Intrastat": "PT",
+  "Esquema de IVA": "9946"
+ },
+ {
+  "Código": "PY",
+  "Nombre": "Paraguay",
+  "Código ISO": "PY",
+  "Código numérico ISO": "600",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "QA",
+  "Nombre": "Catar",
+  "Código ISO": "QA",
+  "Código numérico ISO": "634",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "RO",
+  "Nombre": "Rumanía",
+  "Código ISO": "RO",
+  "Código numérico ISO": "642",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "RO",
+  "Cód. Intrastat": "RO",
+  "Esquema de IVA": "9947"
+ },
+ {
+  "Código": "RS",
+  "Nombre": "Serbia",
+  "Código ISO": "RS",
+  "Código numérico ISO": "688",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Esquema de IVA": "9948"
+ },
+ {
+  "Código": "RU",
+  "Nombre": "Rusia",
+  "Código ISO": "RU",
+  "Código numérico ISO": "643",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Último",
+  "Nombre de la provincia": "Region"
+ },
+ {
+  "Código": "SA",
+  "Nombre": "Arabia Saudí",
+  "Código ISO": "SA",
+  "Código numérico ISO": "682",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "SB",
+  "Nombre": "Islas Salomón",
+  "Código ISO": "SB",
+  "Código numérico ISO": "090",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "SE",
+  "Nombre": "Suecia",
+  "Código ISO": "SE",
+  "Código numérico ISO": "752",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "SE",
+  "Cód. Intrastat": "SE",
+  "Esquema de IVA": "9955"
+ },
+ {
+  "Código": "SG",
+  "Nombre": "Singapur",
+  "Código ISO": "SG",
+  "Código numérico ISO": "702",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "SI",
+  "Nombre": "Eslovenia",
+  "Código ISO": "SI",
+  "Código numérico ISO": "705",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "SI",
+  "Cód. Intrastat": "SI",
+  "Esquema de IVA": "9949"
+ },
+ {
+  "Código": "SK",
+  "Nombre": "Eslovaquia",
+  "Código ISO": "SK",
+  "Código numérico ISO": "703",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa",
+  "Cód. país\/región UE": "SK",
+  "Cód. Intrastat": "SK",
+  "Esquema de IVA": "9950"
+ },
+ {
+  "Código": "SM",
+  "Nombre": "San Marino",
+  "Código ISO": "SM",
+  "Código numérico ISO": "674",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "SN",
+  "Nombre": "Senegal",
+  "Código ISO": "SN",
+  "Código numérico ISO": "686",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "ST",
+  "Nombre": "Santo Tomé y Príncipe",
+  "Código ISO": "ST",
+  "Código numérico ISO": "678",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "SV",
+  "Nombre": "El Salvador",
+  "Código ISO": "SV",
+  "Código numérico ISO": "222",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "SZ",
+  "Nombre": "Suazilandia",
+  "Código ISO": "SZ",
+  "Código numérico ISO": "748",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "TH",
+  "Nombre": "Tailandia",
+  "Código ISO": "TH",
+  "Código numérico ISO": "764",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "TN",
+  "Nombre": "Túnez",
+  "Código ISO": "TN",
+  "Código numérico ISO": "788",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "TR",
+  "Nombre": "Turquía",
+  "Código ISO": "TR",
+  "Código numérico ISO": "792",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Primero",
+  "Esquema de IVA": "9952"
+ },
+ {
+  "Código": "TT",
+  "Nombre": "Trinidad y Tobago",
+  "Código ISO": "TT",
+  "Código numérico ISO": "780",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "TW",
+  "Nombre": "Taiwán",
+  "Código ISO": "TW",
+  "Código numérico ISO": "158",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "TZ",
+  "Nombre": "Tanzania",
+  "Código ISO": "TZ",
+  "Código numérico ISO": "834",
+  "Formato dirección": "C.P.+Población",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "UA",
+  "Nombre": "Ucrania",
+  "Código ISO": "UA",
+  "Código numérico ISO": "804",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "UG",
+  "Nombre": "Uganda",
+  "Código ISO": "UG",
+  "Código numérico ISO": "800",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Después empresa"
+ },
+ {
+  "Código": "US",
+  "Nombre": "EE. UU.",
+  "Código ISO": "US",
+  "Código numérico ISO": "840",
+  "Formato dirección": "Población+Provincia+C.P.",
+  "Formato dirección contacto": "Después empresa",
+  "Nombre de la provincia": "State"
+ },
+ {
+  "Código": "UY",
+  "Nombre": "Uruguay",
+  "Código ISO": "UY",
+  "Código numérico ISO": "858",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "VG",
+  "Nombre": "Islas Vírgenes Británicas",
+  "Código ISO": "VG",
+  "Código numérico ISO": "092",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "VN",
+  "Nombre": "Vietnam",
+  "Código ISO": "VN",
+  "Código numérico ISO": "704",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "VU",
+  "Nombre": "Vanuatu",
+  "Código ISO": "VU",
+  "Código numérico ISO": "548",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "WS",
+  "Nombre": "Samoa",
+  "Código ISO": "WS",
+  "Código numérico ISO": "882",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "XK",
+  "Nombre": "Kosovo",
+  "Código ISO": "XK",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "ZA",
+  "Nombre": "Sudáfrica",
+  "Código ISO": "ZA",
+  "Código numérico ISO": "710",
+  "Formato dirección": "Población+C.P.",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "ZM",
+  "Nombre": "Zambia",
+  "Código ISO": "ZM",
+  "Código numérico ISO": "894",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ },
+ {
+  "Código": "ZW",
+  "Nombre": "Zimbabue",
+  "Código ISO": "ZW",
+  "Código numérico ISO": "716",
+  "Formato dirección": "Línea en blanco+C.P.+Población",
+  "Formato dirección contacto": "Primero"
+ }
+]
